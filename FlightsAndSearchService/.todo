@@ -1,0 +1,4 @@
+- API in the City resource for getting all the airports of a city ✔️
+- Write CRUD API for Airports [Update not working] ✔️
+- Create an API that can add multiple cities in one go (passing an array)
+- Pagination in Get APIs
