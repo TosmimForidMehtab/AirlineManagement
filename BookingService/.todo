@@ -1,2 +1,2 @@
 - Update Booking [Cancel, Reschedule]
-- Error handling in all services
+- Pass values only in the payload and contruct message when received
